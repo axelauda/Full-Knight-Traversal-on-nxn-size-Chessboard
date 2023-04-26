@@ -1,1 +1,1 @@
-# Full-Night-Traversal-on-n-size-Chessboard
+# Full Night Traversal on n-size Chessboard
